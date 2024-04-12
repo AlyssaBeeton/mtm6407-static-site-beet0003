@@ -1,0 +1,19 @@
+{
+  "name": "mtm6407-static-site-beet0003",
+  "version": "0.0.1",
+  "description": "static site for assignment",
+  "main": "index.js",
+  "authors": {
+    "name": "Alyssa",
+    "email": "beet0003@algonquinlive.com"
+  },
+  "repository": "https://github.com/AlyssaBeeton/mtm6407-static-site-beet0003.git/mtm6407-static-site-beet0003",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
